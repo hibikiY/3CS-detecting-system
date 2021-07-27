@@ -1,4 +1,4 @@
-# **「三密」の状態を検知・警告**
-## 本システムは、オフィス会議室等の密閉空間で動作することを想定しており、新型コロナウイルス感染拡大の予防に寄与します。
-## RaspberryPiをエンドポイントに、「サーモカメラ」「マイクセンサ」「CO2センサ」からの入力をAWS上で演算し、密具合を判定します。
+# **Detects and warns of "Three Cs" status**
+## This system is supposed to operate in a closed space such as an office conference room, and contributes to the prevention of the spread of new coronavirus infection.
+## With RaspberryPi as the endpoint, the input from the "thermo camera", "microphone sensor", and "CO2 sensor" is calculated on AWS to determine the degree of tightness.
 
